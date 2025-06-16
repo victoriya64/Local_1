@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/vikacat/assets/concept-map-builder-logo.png" width="180" alt="Concept Map Builder Logo">
-</p>
-
 # Concept Map Builder
 *Automated concept map builder based on knowledge graph*
 
