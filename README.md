@@ -1,1 +1,4 @@
-Проект в релизе.
+- RDF
+- Flask
+- Python
+- SPARQL
