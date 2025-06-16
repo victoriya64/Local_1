@@ -1,5 +1,5 @@
 # Concept Map Builder
-*Automated concept map builder based on knowledge graph*
+*Приложения для автоматизированного построения понятийных карт*
 
 - RDF
 - Flask
